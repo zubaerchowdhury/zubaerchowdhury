@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻  My name is Zubaer Chowdhury.
 - 👨🏽‍🎓  I'm current an undergraduate student at the University of Miami.
-- 🏦  I work as a student software developer at UM's XR Studio and as a Solution Support Technician at UMIT.
+- 🏦  I work as a student software developer at UMiami's XR Studio and as a Solution Support Technician at UMIT.
 - 🤝 Always to looking to learn new skills and facts!
 
 <!--

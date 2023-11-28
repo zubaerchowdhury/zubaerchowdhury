@@ -1,7 +1,7 @@
 ### Hi! 👋🏽
 
 - 👨🏽‍💻  My name is Zubaer Chowdhury.
-- 👨🏽‍🎓  I'm currently a CS undergraduate student at the University of Miami.
+- 👨🏽‍🎓  I'm currently a Computer Engineering undergraduate student at the University of Miami.
 - 🏦  I interned as a .NET Developer at JM Family Enterprises, as a student software developer at UMiami's XR Studio and as a Solution Support Technician at UMIT.
 - 🤝 Always to looking to learn new skills and facts!
 

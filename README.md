@@ -5,7 +5,7 @@
 <h3 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> , I am Zubaer! </h3>
 
 - 👨🏽‍💻  My name is Zubaer Chowdhury.
-- 👨🏽‍🎓  I'm currently a Computer Engineering undergraduate student at the University of Miami <img src="https://news.miami.edu/miamiherbert/_news-assets/images/2018/04/The-U_hands-fornews.gif" width="20px" height="20px">.
+- 👨🏽‍🎓  I'm currently a Computer Engineering undergraduate student at the University of Miami <img src="https://news.miami.edu/miamiherbert/_news-assets/images/2018/04/The-U_hands-fornews.gif" width="16px" height="16px">.
 - 🖥️  I am working as an IT Solution Support Technician at UMIT and previously worked as a student XR software developer at UMiami's XR Studio.
 - 🏦  I interned as a .NET Developer at JM Family Enterprises in Summer '23.
 - 🤝 Always to looking to learn new skills and facts!

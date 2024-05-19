@@ -2,7 +2,7 @@
   <img src="https://example.com" />
 </p>
 
-<h3 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> , I am Zubaer! </h3>
+<h3 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> I am Zubaer! </h3>
 
 - 👨🏽‍💻  My name is Zubaer Chowdhury.
 - 👨🏽‍🎓  I'm currently a Computer Engineering undergraduate student at the University of Miami. Go Canes!! <img src="https://news.miami.edu/miamiherbert/_news-assets/images/2018/04/The-U_hands-fornews.gif" width="16px" height="16px">.

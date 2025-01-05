@@ -6,9 +6,9 @@
 
 - 👨🏽‍💻  My name is Zubaer Chowdhury.
 - 👨🏽‍🎓  I'm currently a Computer Engineering undergraduate student at the University of Miami. Go Canes!! <img src="https://news.miami.edu/miamiherbert/_news-assets/images/2018/04/The-U_hands-fornews.gif" width="16px" height="16px">.
-- 🖥️  I am working as an IT Solution Support Technician at UMIT and previously worked as a student XR software developer at UMiami's XR Studio.
+- 🖥️  I am working as a Database Assistant in the UMiami School of Law and previously worked as an IT Solution Support Technician at UMIT and as a student XR software developer at UMiami's XR Studio.
 - 🏢  I interned as a .NET Developer at JM Family Enterprises in Summer '23.
-- 🤝 Always to looking to learn new skills and facts!
+- 🤝 Always to looking for new software engineering opportunities, especially related to AI and embedded systems!
 
 <!--
 **zrchy/zrchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
